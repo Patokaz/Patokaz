@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Front-end+Developer;UX/UI+Enthusiast;Criando+experiências+digitais;Pato+Dev+🦆"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Front-end+Developer;UX/UI+Enthusiast;Criando+experiências+digitais"/>
 </p>
 
 ---
