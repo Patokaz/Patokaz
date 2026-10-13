@@ -1,128 +1,92 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:24243e&height=180&section=header&text=Raphael%20Gimenes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Front-end%20%7C%20UX/UI&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:24243e&height=180&section=header&text=Raphael%20Gimenes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20UX/UI%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=55" alt="Raphael Gimenes · Front-end Developer"/>
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Front-end+Developer;UX/UI+Enthusiast;Next.js,+React,+Vue+e+Python;Criando+experi%C3%AAncias+digitais"/>
+  <img src="https://readme-typing-svg.demolab.com/?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Front-end+Developer;UX/UI+Enthusiast;Criando+experi%C3%AAncias+digitais" alt="Front-end Developer · UX/UI Enthusiast · Criando experiências digitais"/>
 </p>
 
----
+## 👋 Sobre mim
 
-## 👨‍💻 Sobre mim
+Sou o **Raphael**, estudante de **Ciência da Computação na UNIP** e desenvolvedor front-end em São Paulo.
+Crio sites e interfaces para empresas e clientes reais, sempre buscando o equilíbrio entre **design, performance e usabilidade**.
 
-Sou desenvolvedor full-stack com foco em **front-end, UX/UI e experiências digitais modernas**, e estudo Ciência da Computação na UNIP.
+**Interesses:** desenvolvimento web · UX/UI · IoT · APIs
 
-Desenvolvo projetos para clientes reais: sites institucionais em produção, feitos em **Vue** e em **HTML/CSS/JS**, e uma loja **headless em Next.js + Shopify** (por enquanto, só a landing está no ar). Também trabalho com APIs em **Python (FastAPI)**.
+### Quer ver meu trabalho de perto? Conheça meu portfólio 👇
 
-Minha prioridade é desenvolver interfaces que não sejam apenas bonitas, mas também **intuitivas, rápidas e eficientes**.  
-Acredito que um bom produto vai além do código: envolve entender o usuário e o problema para entregar a melhor solução.
+<p align="center">
+  <a href="https://raphaelgimenes.netlify.app">
+    <img src="assets/portfolio.jpg" width="720" alt="Página inicial do portfólio de Raphael Gimenes"/>
+  </a>
+  <br/>
+  <a href="https://raphaelgimenes.netlify.app">
+    <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portfólio"/>
+  </a>
+</p>
 
----
+## 🚀 Projetos
 
-## 🚀 Projetos em destaque
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Patokaz/front-end-tcc"><img src="assets/painel-aquicola.jpg" alt="Painel Aquícola no celular"/></a>
+      <br/><b><a href="https://github.com/Patokaz/front-end-tcc">Painel Aquícola</a></b> · TCC
+      <br/><sub>React · TypeScript · FastAPI · IoT</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Patokaz/farg-project"><img src="assets/site-farg.jpg" alt="Site da FARG Ar-Condicionado"/></a>
+      <br/><b><a href="https://github.com/Patokaz/farg-project">FARG Ar-Condicionado</a></b>
+      <br/><sub>Vue 3 · Vite · <a href="https://fargarcondicionado.com">no ar</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Patokaz/site-noff"><img src="assets/site-noff.jpg" alt="Site da NOFF Marketing"/></a>
+      <br/><b><a href="https://github.com/Patokaz/site-noff">NOFF Marketing</a></b>
+      <br/><sub>Next.js · TypeScript · Tailwind</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Patokaz/VetVida"><img src="assets/site-vet-vidas.jpg" alt="Site da Clínica Popular Vet Vidas"/></a>
+      <br/><b><a href="https://github.com/Patokaz/VetVida">Clínica Vet Vidas</a></b>
+      <br/><sub>HTML · CSS · JavaScript · <a href="https://clinicapopularvetvidas.com.br">no ar</a></sub>
+    </td>
+  </tr>
+</table>
 
-| Projeto | O que é | Stack | No ar |
-|---|---|---|---|
-| **[Painel Aquícola](https://github.com/Patokaz/front-end-tcc)** | PWA instalável que monitora a água de tanques de piscicultura (sensores ESP32 + previsão de risco por ML) e, sem internet, mostra a última leitura salva. Inclui API FastAPI coberta por testes. TCC em grupo. | React · TypeScript · Vite · Tailwind · FastAPI · PostgreSQL/TimescaleDB · MQTT | — |
-| **[FARG Ar-Condicionado](https://github.com/Patokaz/farg-project)** | Site institucional de cliente real do setor de climatização industrial, com portfólio de projetos filtrável e animações no scroll. | Vue 3 · Vue Router · Vite | [fargarcondicionado.com](https://fargarcondicionado.com) |
-| **[NOFF Marketing](https://github.com/Patokaz/site-noff)** | Site institucional da agência. A v2, refeita em Next.js, tem tela de abertura animada, vídeo otimizado, rolagem suave e cuidados de acessibilidade. A v1 em HTML, CSS e JS segue no ar. | Next.js · React · TypeScript · Tailwind · Motion | [noffmarketing.com.br](https://noffmarketing.com.br) |
-| **[API de Pedidos](https://github.com/Patokaz/api-pedidos)** | API REST em camadas com máquina de estados de status e PostgreSQL em container com volume persistente. Trabalho em grupo de Sistemas Distribuídos. | Python · FastAPI · SQLAlchemy · PostgreSQL · Docker Compose | — |
-| **[Portfólio](https://github.com/Patokaz/portfolio)** | Portfólio bilíngue (PT/EN) com fundo de pontos 3D em WebGL puro, carrossel 3D infinito e troca de tema claro/escuro animada. | React · TypeScript · Vite · Tailwind · Framer Motion · WebGL | [raphaelgimenes.netlify.app](https://raphaelgimenes.netlify.app/) |
+<sub>Mais da faculdade: <a href="https://github.com/Patokaz/api-pedidos">API de Pedidos</a> (FastAPI + Docker) · <a href="https://github.com/Patokaz/Lema-do-Bombeamento">Lema do Bombeamento</a> (Python)</sub>
 
-> Também: loja headless em **Next.js + Shopify** para cliente (repositório privado).
+## 🎓 Formação
 
----
+**Bacharelado em Ciência da Computação** · Universidade Paulista (UNIP) · em andamento (TCC em 2026)
 
 ## 🧰 Tecnologias
 
-### 💻 Front-End
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+**Uso no dia a dia**
 
----
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,html,css,python,fastapi,postgres,docker,git,figma&perline=15" alt="TypeScript, JavaScript, React, Next.js, Vue, Vite, Tailwind, HTML, CSS, Python, FastAPI, PostgreSQL, Docker, Git, Figma"/>
 
-### 🐍 Back-End / Lógica
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-FF4F64?style=for-the-badge"/>
-</p>
+**Também já trabalhei com**
 
----
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Web & CMS
-<p>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-</p>
-
----
-
-### 🛠️ Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Linguagens
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=java,mysql,mongodb,supabase,bootstrap,wordpress,netlify" alt="Java, MySQL, MongoDB, Supabase, Bootstrap, WordPress, Netlify"/>
+&nbsp;<sub>+ Shopify (e-commerce headless)</sub>
 
 ## 📫 Contato
 
 <p>
-  <a href="https://raphaelgimenes.netlify.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="mailto:raphaelgimenes2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://raphaelgimenes.netlify.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://www.linkedin.com/in/raphael-gimenes-11aa92213/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Patokaz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:raphaelgimenes2003@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </p>
 
----
-
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:2c5364,100:0f2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:2c5364,100:0f2027&height=100&section=footer" alt=""/>
 </p>
