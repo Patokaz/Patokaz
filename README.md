@@ -30,32 +30,14 @@ Crio sites e interfaces para empresas e clientes reais, sempre buscando o equil�
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Patokaz/front-end-tcc"><img src="assets/painel-aquicola.jpg" alt="Painel Aquícola no celular"/></a>
-      <br/><b><a href="https://github.com/Patokaz/front-end-tcc">Painel Aquícola</a></b> · TCC
-      <br/><sub>React · TypeScript · FastAPI · IoT</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Patokaz/farg-project"><img src="assets/site-farg.jpg" alt="Site da FARG Ar-Condicionado"/></a>
-      <br/><b><a href="https://github.com/Patokaz/farg-project">FARG Ar-Condicionado</a></b>
-      <br/><sub>Vue 3 · Vite · <a href="https://fargarcondicionado.com">no ar</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Patokaz/site-noff"><img src="assets/site-noff.jpg" alt="Site da NOFF Marketing"/></a>
-      <br/><b><a href="https://github.com/Patokaz/site-noff">NOFF Marketing</a></b>
-      <br/><sub>Next.js · TypeScript · Tailwind</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Patokaz/VetVida"><img src="assets/site-vet-vidas.jpg" alt="Site da Clínica Popular Vet Vidas"/></a>
-      <br/><b><a href="https://github.com/Patokaz/VetVida">Clínica Vet Vidas</a></b>
-      <br/><sub>HTML · CSS · JavaScript · <a href="https://clinicapopularvetvidas.com.br">no ar</a></sub>
-    </td>
+    <td align="center"><a href="https://github.com/Patokaz/front-end-tcc"><img src="assets/painel-aquicola.jpg" width="190" alt="Painel Aquícola"/><br/><sub><b>Painel Aquícola</b> (TCC)</sub></a></td>
+    <td align="center"><a href="https://github.com/Patokaz/farg-project"><img src="assets/site-farg.jpg" width="190" alt="Site da FARG Ar-Condicionado"/><br/><sub><b>FARG Ar-Condicionado</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Patokaz/site-noff"><img src="assets/site-noff.jpg" width="190" alt="Site da NOFF Marketing"/><br/><sub><b>NOFF Marketing</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Patokaz/VetVida"><img src="assets/site-vet-vidas.jpg" width="190" alt="Site da Clínica Vet Vidas"/><br/><sub><b>Clínica Vet Vidas</b></sub></a></td>
   </tr>
 </table>
 
-<sub>Mais da faculdade: <a href="https://github.com/Patokaz/api-pedidos">API de Pedidos</a> (FastAPI + Docker) · <a href="https://github.com/Patokaz/Lema-do-Bombeamento">Lema do Bombeamento</a> (Python)</sub>
+<sub>Da faculdade: <a href="https://github.com/Patokaz/api-pedidos">API de Pedidos</a> · <a href="https://github.com/Patokaz/Lema-do-Bombeamento">Lema do Bombeamento</a></sub>
 
 ## 🎓 Formação
 
@@ -63,14 +45,54 @@ Crio sites e interfaces para empresas e clientes reais, sempre buscando o equil�
 
 ## 🧰 Tecnologias
 
-**Uso no dia a dia**
+### 💻 Front-End
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,html,css,python,fastapi,postgres,docker,git,figma&perline=15" alt="TypeScript, JavaScript, React, Next.js, Vue, Vite, Tailwind, HTML, CSS, Python, FastAPI, PostgreSQL, Docker, Git, Figma"/>
+### 🐍 Back-End
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-**Também já trabalhei com**
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,mysql,mongodb,supabase,bootstrap,wordpress,netlify" alt="Java, MySQL, MongoDB, Supabase, Bootstrap, WordPress, Netlify"/>
-&nbsp;<sub>+ Shopify (e-commerce headless)</sub>
+### 🌐 Web, CMS & E-commerce
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### 🧠 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ## 📫 Contato
 
